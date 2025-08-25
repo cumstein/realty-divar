@@ -25,7 +25,7 @@ This Python script demonstrates how to fetch real estate listing data from Divar
 ## Usage
 
 1.  **Save the Code:**
-    *   Save the provided Python code (from the previous conversation) into a file named `divar_api_scraper.py`.
+    *   Save or donwload the provided Python code into a file named `divar_api_scraper.py`.
 
 2.  **Insert Your API Key:**
     *   Open `divar_api_scraper.py` in a text editor.
