@@ -1,0 +1,1017 @@
+    {
+      "data": [
+        {
+          "price": {
+            "mode": "مقطوع",
+            "value": "190000000"
+          },
+          "real_estate_fields": {
+            "rent": {
+              "mode": "مقطوع",
+              "value": "9000000"
+            },
+            "daily_rent": "0",
+            "size": 75,
+            "year": 1399,
+            "rooms": "بدون اتاق",
+            "floor": 0
+          }
+        },
+        {
+          "token": "AaRkASjk",
+      "category": "villa",
+      "last_modified_at": "2025-08-25T16:12:29.502728Z",
+      "city": "rasht",
+      "title": "اجاره کلبه سوئیسی استخردار در ماسال کدj108",
+      "price": {},
+      "real_estate_fields": {
+        "credit": {},
+        "rent": {},
+        "daily_rent": "0",
+        "size": 160,
+        "year": 0,
+        "rooms": "سه",
+        "floor": 0
+      }
+    },
+    {
+      "token": "wZYPzwy4",
+      "category": "suite-apartment",
+      "last_modified_at": "2025-08-25T16:18:16.704998Z",
+      "city": "rasht",
+      "title": "اجاره روزانه سوییت در قلب رشت پارکینگ",
+      "price": {},
+      "real_estate_fields": {
+        "credit": {},
+        "rent": {},
+        "daily_rent": "750000",
+        "size": 60,
+        "year": 0,
+        "rooms": "یک",
+        "floor": 0
+      }
+    },
+    {
+      "token": "AajeC8xA",
+      "category": "apartment-sell",
+      "last_modified_at": "2025-08-25T16:12:02.086927Z",
+      "city": "rasht",
+      "title": "120متری 2خوابه گلزاران اصلی",
+      "price": {
+        "mode": "مقطوع",
+        "value": "2900000000"
+      },
+      "real_estate_fields": {
+        "credit": {},
+        "rent": {},
+        "daily_rent": "0",
+        "size": 120,
+        "year": 1402,
+        "has_parking": true,
+        "has_elevator": true,
+        "rooms": "دو",
+        "floor": 4
+      }
+    },
+    {
+      "token": "AaHmoV7u",
+      "category": "apartment-rent",
+      "last_modified_at": "2025-08-25T16:11:40.113787Z",
+      "city": "rasht",
+      "title": "اجاره خانه ۹۰متری در گلسار خیابان ۱۲۳",
+      "price": {},
+      "real_estate_fields": {
+        "credit": {
+          "mode": "مقطوع",
+          "value": "700000000"
+        },
+        "rent": {
+          "mode": "مقطوع",
+          "value": "16000000"
+        },
+        "daily_rent": "0",
+        "size": 90,
+        "year": 1397,
+        "has_parking": true,
+        "has_elevator": true,
+        "rooms": "دو",
+        "floor": 2
+      }
+    },
+    {
+      "token": "AalSWSNI",
+      "category": "apartment-rent",
+      "last_modified_at": "2025-08-25T16:11:16.271138Z",
+      "city": "rasht",
+      "title": "رهن واحد ۷۰ متری دیلمان گلسار",
+      "price": {},
+      "real_estate_fields": {
+        "credit": {
+          "mode": "مقطوع",
+          "value": "600000000"
+        },
+        "rent": {
+          "mode": "مقطوع"
+        },
+        "daily_rent": "0",
+        "size": 70,
+        "year": 1380,
+        "has_parking": true,
+        "rooms": "دو",
+        "floor": 2
+      }
+    },
+    {
+      "token": "Aasq4gMh",
+      "category": "apartment-rent",
+      "last_modified_at": "2025-08-25T16:19:33.767768Z",
+      "city": "rasht",
+      "title": "اجاره آپارتمان ۵۰ متری ۱ خوابه طبقه ۱ در رازی",
+      "price": {},
+      "real_estate_fields": {
+        "credit": {
+          "mode": "مقطوع",
+          "value": "60000000"
+        },
+        "rent": {
+          "mode": "مقطوع",
+          "value": "6500000"
+        },
+        "daily_rent": "0",
+        "size": 50,
+        "year": 1390,
+        "rooms": "یک",
+        "floor": 1
+      }
+    },
+    {
+      "token": "AapyYwmE",
+      "category": "apartment-rent",
+      "last_modified_at": "2025-08-25T16:10:57.808669Z",
+      "city": "rasht",
+      "title": "۷۵متری معلم کسمایی نیکمرام شمسی پور",
+      "price": {},
+      "real_estate_fields": {
+        "credit": {
+          "mode": "مقطوع",
+          "value": "550000000"
+        },
+        "rent": {
+          "mode": "مقطوع",
+          "value": "10000000"
+        },
+        "daily_rent": "0",
+        "size": 80,
+        "year": 1392,
+        "has_parking": true,
+        "has_elevator": true,
+        "rooms": "دو",
+        "floor": 2
+      }
+    },
+    {
+      "token": "AaZm6Qsj",
+      "category": "apartment-sell",
+      "last_modified_at": "2025-08-25T16:10:33.591415Z",
+      "city": "rasht",
+      "title": "اپارتمان تک واحدی صفر یخسازی",
+      "price": {
+        "mode": "مقطوع",
+        "value": "2500000000"
+      },
+      "real_estate_fields": {
+        "credit": {},
+        "rent": {},
+        "daily_rent": "0",
+        "size": 110,
+        "year": 1403,
+        "has_parking": true,
+        "has_elevator": true,
+        "rooms": "دو",
+        "floor": 1
+      }
+    },
+    {
+      "token": "Aasm4Ob_",
+      "category": "shop-rent",
+      "last_modified_at": "2025-08-25T16:10:04.074482Z",
+      "city": "rasht",
+      "title": "مغازه نوساز 100 متری بلوار گیلان",
+      "price": {},
+      "real_estate_fields": {
+        "credit": {
+          "mode": "مقطوع",
+          "value": "5000000000"
+        },
+        "rent": {
+          "mode": "مقطوع"
+        },
+        "daily_rent": "0",
+        "size": 100,
+        "year": 1403,
+        "rooms": "بدون اتاق",
+        "floor": 0
+      }
+    },
+    {
+      "token": "AasqYfae",
+      "category": "shop-sell",
+      "last_modified_at": "2025-08-25T16:09:10.317011Z",
+      "city": "rasht",
+      "title": "فروش سر قفلی مغازه جانبازان بر خیابان",
+      "price": {
+        "mode": "مقطوع",
+        "value": "5400000000"
+      },
+      "real_estate_fields": {
+        "credit": {},
+        "rent": {},
+        "daily_rent": "0",
+        "size": 24,
+        "year": 1375,
+        "rooms": "بدون اتاق",
+        "floor": 0
+      }
+    },
+    {
+      "token": "AarOicrT",
+      "category": "apartment-sell",
+      "last_modified_at": "2025-08-25T16:09:00.619618Z",
+      "city": "rasht",
+      "title": "فروش آپارتمان ۱۱۵ متری ۲ خوابه در قلی پور",
+      "price": {
+        "mode": "مقطوع",
+        "value": "2850000000"
+      },
+      "real_estate_fields": {
+        "credit": {},
+        "rent": {},
+        "daily_rent": "0",
+        "size": 115,
+        "year": 1403,
+        "has_parking": true,
+        "has_elevator": true,
+        "rooms": "دو",
+        "floor": 4
+      }
+    },
+    {
+      "token": "Aace1kEj",
+      "category": "villa",
+      "last_modified_at": "2025-08-25T16:08:45.739701Z",
+      "city": "rasht",
+      "title": "مجموعه شمعدونی",
+      "price": {},
+      "real_estate_fields": {
+        "credit": {},
+        "rent": {},
+        "daily_rent": "0",
+        "size": 90,
+        "year": 0,
+        "rooms": "یک",
+        "floor": 0
+      }
+    },
+    {
+      "token": "AasqYbNv",
+      "category": "shop-rent",
+      "last_modified_at": "2025-08-25T16:09:03.426754Z",
+      "city": "rasht",
+      "title": "اجاره مغازه ۱۰۰ متری گلسار بلوارامام علی",
+      "price": {},
+      "real_estate_fields": {
+        "credit": {
+          "mode": "مقطوع",
+          "value": "500000000"
+        },
+        "rent": {
+          "mode": "مقطوع",
+          "value": "47000000"
+        },
+        "daily_rent": "0",
+        "size": 100,
+        "year": 1403,
+        "rooms": "بدون اتاق",
+        "floor": 0
+      }
+    },
+    {
+      "token": "Aa1seGAP",
+      "category": "apartment-sell",
+      "last_modified_at": "2025-08-25T16:08:34.150158Z",
+      "city": "rasht",
+      "title": "۸۵متری/۲خواب/بازسازی شده/خوش نقشه",
+      "price": {
+        "mode": "مقطوع",
+        "value": "2490000000"
+      },
+      "real_estate_fields": {
+        "credit": {},
+        "rent": {},
+        "daily_rent": "0",
+        "size": 85,
+        "year": 1386,
+        "has_parking": true,
+        "has_elevator": true,
+        "rooms": "دو",
+        "floor": 1
+      }
+    },
+    {
+      "token": "QZIj9JMl",
+      "category": "villa",
+      "last_modified_at": "2025-08-25T16:08:32.029325Z",
+      "city": "rasht",
+      "title": "اجاره ویلاچوبی جنگلی ۱۲ کیلومتری رشت (۲۴ ساعته)",
+      "price": {},
+      "real_estate_fields": {
+        "credit": {},
+        "rent": {},
+        "daily_rent": "4000000",
+        "size": 210,
+        "year": 0,
+        "rooms": "دو",
+        "floor": 0
+      }
+    },
+    {
+      "token": "gZd60LvF",
+      "category": "suite-apartment",
+      "last_modified_at": "2025-08-25T16:08:27.378816Z",
+      "city": "rasht",
+      "title": "اجاره آپارتمان نوساز پل جانبازان",
+      "price": {},
+      "real_estate_fields": {
+        "credit": {},
+        "rent": {},
+        "daily_rent": "0",
+        "size": 60,
+        "year": 0,
+        "rooms": "یک",
+        "floor": 0
+      }
+    },
+    {
+      "token": "Aasq4OZL",
+      "category": "house-villa-sell",
+      "last_modified_at": "2025-08-25T16:07:50.074645Z",
+      "city": "rasht",
+      "title": "فروش خانه ی ویلایی",
+      "price": {
+        "mode": "مقطوع",
+        "value": "1700000000"
+      },
+      "real_estate_fields": {
+        "credit": {},
+        "rent": {},
+        "daily_rent": "0",
+        "size": 90,
+        "year": 1390,
+        "has_parking": true,
+        "rooms": "یک",
+        "floor": 0
+      }
+    },
+    {
+      "token": "AaH2KE4o",
+      "category": "apartment-sell",
+      "last_modified_at": "2025-08-25T16:07:40.669077Z",
+      "city": "rasht",
+      "title": "۱۱۰متری/خوش نقشه/نزدیک بر اصلی/فول امکانات",
+      "price": {
+        "mode": "مقطوع",
+        "value": "3950000000"
+      },
+      "real_estate_fields": {
+        "credit": {},
+        "rent": {},
+        "daily_rent": "0",
+        "size": 110,
+        "year": 1388,
+        "has_parking": true,
+        "has_elevator": true,
+        "rooms": "دو",
+        "floor": 2
+      }
+    },
+    {
+      "token": "AarBoPbI",
+      "category": "villa",
+      "last_modified_at": "2025-08-25T16:06:30.270581Z",
+      "city": "rasht",
+      "title": "اجاره ویلا استخر دار پینگ پنگ فوتبال دستی ویو جنگل",
+      "price": {},
+      "real_estate_fields": {
+        "credit": {},
+        "rent": {},
+        "daily_rent": "0",
+        "size": 3100,
+        "year": 0,
+        "rooms": "چهار",
+        "floor": 0
+      }
+    },
+    {
+      "token": "AaqBKUcf",
+      "category": "villa",
+      "last_modified_at": "2025-08-25T16:06:24.075117Z",
+      "city": "rasht",
+      "title": "اجاره ویلا استخر دار رو بار ویو جنگلی ۴خوابه",
+      "price": {},
+      "real_estate_fields": {
+        "credit": {},
+        "rent": {},
+        "daily_rent": "0",
+        "size": 2500,
+        "year": 0,
+        "rooms": "سه",
+        "floor": 0
+      }
+    },
+    {
+      "token": "Aarp3B_c",
+      "category": "villa",
+      "last_modified_at": "2025-08-25T16:06:03.484452Z",
+      "city": "rasht",
+      "title": "اجاره ویلا ۳ طبقه استخردار تراس بزرگ جنگلی",
+      "price": {},
+      "real_estate_fields": {
+        "credit": {},
+        "rent": {},
+        "daily_rent": "0",
+        "size": 30600,
+        "year": 0,
+        "rooms": "بیشتر",
+        "floor": 0
+      }
+    },
+    {
+      "token": "AaOWD6AG",
+      "category": "villa",
+      "last_modified_at": "2025-08-25T16:05:58.011220Z",
+      "city": "rasht",
+      "title": "اجاره کاخ استخر دار بیلیارد ویو کوهستانی",
+      "price": {},
+      "real_estate_fields": {
+        "credit": {},
+        "rent": {},
+        "daily_rent": "0",
+        "size": 5000,
+        "year": 0,
+        "rooms": "بیشتر",
+        "floor": 0
+      }
+    },
+    {
+      "token": "AarJ-9Od",
+      "category": "villa",
+      "last_modified_at": "2025-08-25T16:05:51.143062Z",
+      "city": "rasht",
+      "title": "اجاره ویلا دوبلکس استخردار روباز نوساز ایرهاکی",
+      "price": {},
+      "real_estate_fields": {
+        "credit": {},
+        "rent": {},
+        "daily_rent": "0",
+        "size": 3900,
+        "year": 0,
+        "rooms": "چهار",
+        "floor": 0
+      }
+    },
+    {
+      "token": "Aau9ie9L",
+      "category": "apartment-sell",
+      "last_modified_at": "2025-08-25T16:05:48.263087Z",
+      "city": "rasht",
+      "title": "۸۰متری/۲خواب/صفر/فول/لوکیشن عالی نامجو",
+      "price": {
+        "mode": "مقطوع",
+        "value": "4800000000"
+      },
+      "real_estate_fields": {
+        "credit": {},
+        "rent": {},
+        "daily_rent": "0",
+        "size": 80,
+        "year": 1404,
+        "has_parking": true,
+        "has_elevator": true,
+        "rooms": "دو",
+        "floor": 2
+      }
+    },
+    {
+      "token": "Aabefiz3",
+      "category": "suite-apartment",
+      "last_modified_at": "2025-08-25T16:05:27.521062Z",
+      "city": "rasht",
+      "title": "اجاره سوییت دنج",
+      "price": {},
+      "real_estate_fields": {
+        "credit": {},
+        "rent": {},
+        "daily_rent": "700000",
+        "size": 80,
+        "year": 0,
+        "rooms": "یک",
+        "floor": 0
+      }
+    },
+    {
+      "token": "AakKsw2h",
+      "category": "villa",
+      "last_modified_at": "2025-08-25T16:28:14.788537Z",
+      "city": "rasht",
+      "title": "اجاره ویلای ۳خوابه (خوشکل درآغوش طبیعت نزدیک رشت)",
+      "price": {},
+      "real_estate_fields": {
+        "credit": {},
+        "rent": {},
+        "daily_rent": "1500000",
+        "size": 500,
+        "year": 0,
+        "rooms": "سه",
+        "floor": 0
+      }
+    },
+    {
+      "token": "AahKOZ1v",
+      "category": "apartment-sell",
+      "last_modified_at": "2025-08-25T16:04:59.910798Z",
+      "city": "rasht",
+      "title": "پنت هوس 3خواب قلی پور خمسه بازار",
+      "price": {
+        "mode": "مقطوع",
+        "value": "4200000000"
+      },
+      "real_estate_fields": {
+        "credit": {},
+        "rent": {},
+        "daily_rent": "0",
+        "size": 145,
+        "year": 1404,
+        "has_parking": true,
+        "has_elevator": true,
+        "rooms": "سه",
+        "floor": 4
+      }
+    },
+    {
+      "token": "AasaYdw5",
+      "category": "apartment-rent",
+      "last_modified_at": "2025-08-25T16:08:46.232770Z",
+      "city": "rasht",
+      "title": "اجاره ۳ خواب",
+      "price": {},
+      "real_estate_fields": {
+        "credit": {
+          "mode": "مقطوع",
+          "value": "2200000000"
+        },
+        "rent": {
+          "mode": "مقطوع"
+        },
+        "daily_rent": "0",
+        "size": 133,
+        "year": 1393,
+        "has_parking": true,
+        "has_elevator": true,
+        "rooms": "سه",
+        "floor": 4
+      }
+    },
+    {
+      "token": "AasiYRt5",
+      "category": "shop-sell",
+      "last_modified_at": "2025-08-25T16:03:35.774533Z",
+      "city": "rasht",
+      "title": "فروش فوری مغازه",
+      "price": {
+        "mode": "مقطوع",
+        "value": "450000000"
+      },
+      "real_estate_fields": {
+        "credit": {},
+        "rent": {},
+        "daily_rent": "0",
+        "size": 12,
+        "year": 1389,
+        "rooms": "بدون اتاق",
+        "floor": 0
+      }
+    },
+    {
+      "token": "AaWagl0V",
+      "category": "suite-apartment",
+      "last_modified_at": "2025-08-25T16:05:56.932945Z",
+      "city": "rasht",
+      "title": "واحد دو خوابه کامل دربست پارکینگ و کولر اسپلیت دار",
+      "price": {},
+      "real_estate_fields": {
+        "credit": {},
+        "rent": {},
+        "daily_rent": "900000",
+        "size": 105,
+        "year": 0,
+        "rooms": "دو",
+        "floor": 0
+      }
+    },
+    {
+      "token": "wZY_Fdd6",
+      "category": "villa",
+      "last_modified_at": "2025-08-25T16:03:07.866324Z",
+      "city": "rasht",
+      "title": "ویلا جکوزی دار و پلی استیشن ۴ سه خواب خمام",
+      "price": {},
+      "real_estate_fields": {
+        "credit": {},
+        "rent": {},
+        "daily_rent": "0",
+        "size": 500,
+        "year": 0,
+        "rooms": "سه",
+        "floor": 0
+      }
+    },
+    {
+      "token": "AaeOVA5H",
+      "category": "house-villa-sell",
+      "last_modified_at": "2025-08-25T16:02:27.981709Z",
+      "city": "rasht",
+      "title": "فروش ویلای صفر کلید نخورده نزدیک شهر رشت و فومن",
+      "price": {
+        "mode": "مقطوع",
+        "value": "6000000000"
+      },
+      "real_estate_fields": {
+        "credit": {},
+        "rent": {},
+        "daily_rent": "0",
+        "size": 100,
+        "year": 1404,
+        "has_parking": true,
+        "rooms": "دو",
+        "floor": 0
+      }
+    },
+    {
+      "token": "AaEW5MtX",
+      "category": "house-villa-sell",
+      "last_modified_at": "2025-08-25T16:01:12.993078Z",
+      "city": "rasht",
+      "title": "باغ ویلای بهشتی سند تک برگ نزدیک مناطق جنگلی",
+      "price": {
+        "mode": "مقطوع",
+        "value": "13900000000"
+      },
+      "real_estate_fields": {
+        "credit": {},
+        "rent": {},
+        "daily_rent": "0",
+        "size": 150,
+        "year": 1400,
+        "has_parking": true,
+        "rooms": "دو",
+        "floor": 0
+      }
+    },
+    {
+      "token": "AZwETzQR",
+      "category": "villa",
+      "last_modified_at": "2025-08-25T16:01:11.042405Z",
+      "city": "rasht",
+      "title": "اجاره ویلا استخردار بیلیارد از مالک",
+      "price": {},
+      "real_estate_fields": {
+        "credit": {},
+        "rent": {},
+        "daily_rent": "3000000",
+        "size": 250,
+        "year": 0,
+        "rooms": "دو",
+        "floor": 0
+      }
+    },
+    {
+      "token": "AabWRLqC",
+      "category": "apartment-rent",
+      "last_modified_at": "2025-08-25T16:03:54.209569Z",
+      "city": "rasht",
+      "title": "رهن اپارتمان ۷۰ متری در بر اصلی خیابان شهید نظری",
+      "price": {},
+      "real_estate_fields": {
+        "credit": {
+          "mode": "مقطوع",
+          "value": "350000000"
+        },
+        "rent": {
+          "mode": "مقطوع",
+          "value": "100000"
+        },
+        "daily_rent": "0",
+        "size": 70,
+        "year": 1395,
+        "has_parking": true,
+        "rooms": "یک",
+        "floor": 3
+      }
+    },
+    {
+      "token": "QZydCIhO",
+      "category": "villa",
+      "last_modified_at": "2025-08-25T16:00:33.273215Z",
+      "city": "rasht",
+      "title": "ویلا تربلکس قو سفید نزدیک رشت و اتوبان تهران رشت",
+      "price": {},
+      "real_estate_fields": {
+        "credit": {},
+        "rent": {},
+        "daily_rent": "3300000",
+        "size": 580,
+        "year": 0,
+        "rooms": "دو",
+        "floor": 0
+      }
+    },
+    {
+      "token": "Aasii7SZ",
+      "category": "apartment-sell",
+      "last_modified_at": "2025-08-25T16:00:33.121212Z",
+      "city": "rasht",
+      "title": "فروش اپارتمان ۲ خواب ۱۰۵ متر ابولقاسمی",
+      "price": {
+        "mode": "مقطوع",
+        "value": "6800000000"
+      },
+      "real_estate_fields": {
+        "credit": {},
+        "rent": {},
+        "daily_rent": "0",
+        "size": 105,
+        "year": 1404,
+        "has_parking": true,
+        "has_elevator": true,
+        "rooms": "دو",
+        "floor": 3
+      }
+    },
+    {
+      "token": "AagKLdlg",
+      "category": "apartment-sell",
+      "last_modified_at": "2025-08-25T15:59:49.881514Z",
+      "city": "rasht",
+      "title": "۸۷متری/۲خواب/پارکینگ/طبقه اول/سند دار",
+      "price": {
+        "mode": "مقطوع",
+        "value": "2450000000"
+      },
+      "real_estate_fields": {
+        "credit": {},
+        "rent": {},
+        "daily_rent": "0",
+        "size": 87,
+        "year": 1384,
+        "has_parking": true,
+        "rooms": "دو",
+        "floor": 1
+      }
+    },
+    {
+      "token": "AaTRO1FD",
+      "category": "presell",
+      "last_modified_at": "2025-08-25T15:59:32.008582Z",
+      "city": "rasht",
+      "title": "ویلا دشت زندگی مدرن در قلب طبیعت",
+      "price": {},
+      "real_estate_fields": {
+        "credit": {},
+        "rent": {},
+        "daily_rent": "0",
+        "size": 0,
+        "year": 0,
+        "floor": 0
+      }
+    },
+    {
+      "token": "Aa-wS62d",
+      "category": "suite-apartment",
+      "last_modified_at": "2025-08-25T15:59:28.631145Z",
+      "city": "rasht",
+      "title": "اجاره شبانه،هفتگی،ماهانه /خانه ویلایی/۱۲۰ متری",
+      "price": {},
+      "real_estate_fields": {
+        "credit": {},
+        "rent": {},
+        "daily_rent": "2000000",
+        "size": 120,
+        "year": 0,
+        "rooms": "دو",
+        "floor": 0
+      }
+    },
+    {
+      "token": "AaddA0x4",
+      "category": "house-villa-sell",
+      "last_modified_at": "2025-08-25T15:59:10.941512Z",
+      "city": "rasht",
+      "title": "دوبلکس 220 متری 2قدمی دریا",
+      "price": {
+        "mode": "مقطوع",
+        "value": "11000000000"
+      },
+      "real_estate_fields": {
+        "credit": {},
+        "rent": {},
+        "daily_rent": "0",
+        "size": 220,
+        "year": 1397,
+        "has_parking": true,
+        "rooms": "سه",
+        "floor": 0
+      }
+    },
+    {
+      "token": "AaTejykj",
+      "category": "house-villa-sell",
+      "last_modified_at": "2025-08-25T15:58:31.626330Z",
+      "city": "rasht",
+      "title": "شهرک امن /3خوابه/دوقدمی دریا",
+      "price": {
+        "mode": "مقطوع",
+        "value": "11000"
+      },
+      "real_estate_fields": {
+        "credit": {},
+        "rent": {},
+        "daily_rent": "0",
+        "size": 230,
+        "year": 1403,
+        "has_parking": true,
+        "rooms": "سه",
+        "floor": 0
+      }
+    },
+    {
+      "token": "Aablfx26",
+      "category": "suite-apartment",
+      "last_modified_at": "2025-08-25T15:58:22.557114Z",
+      "city": "rasht",
+      "title": "اجاره ۳خواب ساحلی با دید دریا/بیلیارد/سیستم صوتی",
+      "price": {},
+      "real_estate_fields": {
+        "credit": {},
+        "rent": {},
+        "daily_rent": "2500000",
+        "size": 172,
+        "year": 0,
+        "rooms": "سه",
+        "floor": 0
+      }
+    },
+    {
+      "token": "wZ5hyDl4",
+      "category": "villa",
+      "last_modified_at": "2025-08-25T15:56:07.022870Z",
+      "city": "rasht",
+      "title": "اجاره ویلا ۱۵۰ متری",
+      "price": {},
+      "real_estate_fields": {
+        "credit": {},
+        "rent": {},
+        "daily_rent": "0",
+        "size": 160,
+        "year": 0,
+        "rooms": "دو",
+        "floor": 0
+      }
+    },
+    {
+      "token": "AakWO80H",
+      "category": "apartment-rent",
+      "last_modified_at": "2025-08-25T15:56:05.970539Z",
+      "city": "rasht",
+      "title": "اجاره اپارتمان  ۲۰۰متری در رشتیان کوچه ۴۱",
+      "price": {},
+      "real_estate_fields": {
+        "credit": {
+          "mode": "مقطوع",
+          "value": "1500000000"
+        },
+        "rent": {
+          "mode": "مقطوع",
+          "value": "20000000"
+        },
+        "daily_rent": "0",
+        "size": 200,
+        "year": 1403,
+        "has_parking": true,
+        "has_elevator": true,
+        "rooms": "سه",
+        "floor": 1
+      }
+    },
+    {
+      "token": "AaF4r9xi",
+      "category": "villa",
+      "last_modified_at": "2025-08-25T15:56:04.184410Z",
+      "city": "rasht",
+      "title": "اجاره روزانه/ماهانه ویلا ۱۵۰۰ متری در حومه رشت",
+      "price": {},
+      "real_estate_fields": {
+        "credit": {},
+        "rent": {},
+        "daily_rent": "2500000",
+        "size": 1500,
+        "year": 0,
+        "rooms": "سه",
+        "floor": 0
+      }
+    },
+    {
+      "token": "AaJlKQ40",
+      "category": "villa",
+      "last_modified_at": "2025-08-25T15:55:31.115969Z",
+      "city": "rasht",
+      "title": "اجاره ویلا باغ دوخواب استخردار،گیلان،شفت،دورودخان",
+      "price": {},
+      "real_estate_fields": {
+        "credit": {},
+        "rent": {},
+        "daily_rent": "0",
+        "size": 95,
+        "year": 0,
+        "rooms": "دو",
+        "floor": 0
+      }
+    },
+    {
+      "token": "wZiTGJW9",
+      "category": "house-villa-sell",
+      "last_modified_at": "2025-08-25T15:55:18.819728Z",
+      "city": "rasht",
+      "title": "ویلای خاص، یک قدم تا دریا",
+      "price": {
+        "mode": "مقطوع",
+        "value": "25000000000"
+      },
+      "real_estate_fields": {
+        "credit": {},
+        "rent": {},
+        "daily_rent": "0",
+        "size": 450,
+        "year": 1400,
+        "has_parking": true,
+        "rooms": "چهار",
+        "floor": 0
+      }
+    },
+    {
+      "token": "Aasao_Eo",
+      "category": "house-villa-sell",
+      "last_modified_at": "2025-08-25T15:56:10.599627Z",
+      "city": "rasht",
+      "title": "فروش ملک ویلایی به قیمت دیانتی و شالکو",
+      "price": {
+        "mode": "مقطوع",
+        "value": "3300000000"
+      },
+      "real_estate_fields": {
+        "credit": {},
+        "rent": {},
+        "daily_rent": "0",
+        "size": 100,
+        "year": 1390,
+        "has_parking": true,
+        "rooms": "دو",
+        "floor": 0
+      }
+    },
+    {
+      "token": "AaOChXLd",
+      "category": "apartment-rent",
+      "last_modified_at": "2025-08-25T15:54:32.492942Z",
+      "city": "rasht",
+      "title": "اجاره آپارتمان ۸۸ متری",
+      "price": {},
+      "real_estate_fields": {
+        "credit": {
+          "mode": "مقطوع",
+          "value": "400000000"
+        },
+        "rent": {
+          "mode": "مقطوع",
+          "value": "8500000"
+        },
+        "daily_rent": "0",
+        "size": 88,
+        "year": 1397,
+        "has_parking": true,
+        "has_elevator": true,
+        "rooms": "دو",
+        "floor": 7
+      }
+    }
+  ]
+}

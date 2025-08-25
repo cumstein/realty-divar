@@ -13,7 +13,7 @@ headers = {
 
 data = {
     "category": "real-estate", 
-    "city": "tehran",
+    "city": "rasht",
     "districts": [],
     "query": {
         "size": {
