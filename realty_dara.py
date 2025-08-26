@@ -13,20 +13,8 @@ headers = {
 
 data = {
     "category": "real-estate", 
-    "city": "rasht",
-    "districts": [],
-    "query": {
-        "size": {
-            "min": "70",  # حداقل متراژ
-            "max": "100"  # حداکثر متراژ
-        },
-        "rooms": ["2"],  # تعداد اتاق
-        "credit": {
-            "min": "1000000000", # حداقل قیمت (مثلاً 1 میلیارد تومان)
-            "max": "2000000000"  # حداکثر قیمت (مثلاً 2 میلیارد تومان)
-        }
-       
-    }
+    "city": "tehran",
+    "districts": ["nazi-abad"],
 }
 
 
